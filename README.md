@@ -36,7 +36,6 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-228B22?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-FF6B35?style=for-the-badge&logo=gns3&logoColor=white)
 
 </div>
@@ -77,18 +76,7 @@
 ### **🔧 PCB Design & Electronics**
 <div align="center">
 
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Eagle](https://img.shields.io/badge/Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-00B0F0?style=for-the-badge)
-
-</div>
-
-### **🤖 Robotics & Computer Vision**
-<div align="center">
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
